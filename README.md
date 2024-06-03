@@ -1,12 +1,14 @@
 # Side-project-Taichung-City-Traffic-Accident-Statistical-Analysis-System
 # 台中市交通事故統計分析系統
+1. 簡介
+本網站使用HTML、PHP和Python開發，提供台中市交通事故的統計分析服務。使用者可以選擇特定的年份與月份查詢該時間段內的交通事故資料。
 
-1. 功能介紹
+2. 功能介紹
 
    a. 地圖顯示：可以選擇想查詢的年份與月份，送出後顯示這個時間段的台中市發生交通事故的地點，並且會顯示發生時間、死亡數與受傷數
    ![image](https://github.com/cindy392/Side-project-Taichung-City-Traffic-Accident-Statistical-Analysis-System/assets/91950203/e46d8d14-713d-4559-af25-b94a0ed50142)
 
-   b. 統計分析：
+   b. 統計分析與數據比較：
    
      1.顯示將選擇的時間資料，顯示事件數、死亡數和受傷數
    
